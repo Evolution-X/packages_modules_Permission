@@ -245,7 +245,7 @@
                     android:clickable="false"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:drawableLeft="@drawable/ic_info_outline"
+                    android:drawableStart="@drawable/ic_info_outline"
                     style="@style/AppPermissionFooterTextWithIcon" />
 
                 <TextView
@@ -253,7 +253,7 @@
                     android:clickable="false"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:drawableLeft="@drawable/ic_info_outline"
+                    android:drawableStart="@drawable/ic_info_outline"
                     style="@style/AppPermissionFooterTextWithIcon" />
 
             </LinearLayout>
